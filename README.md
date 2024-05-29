@@ -1,7 +1,7 @@
 # Securing QR Code Using Visual Cryptography
 
 ## Overview
-This project aims to take a qr code image as imput, apply a series of operation and then deconstruct it into two encrypted images P and R. Upon applying the decryption algorithm, the orginal qr code image is regenerated. For encryption and decryption AES and SHA-256 algorithm have been applied. This repository contains Python scripts for image processing and cryptography tasks, demonstrating practical applications of these concepts in information security.
+This project aims to take a qr code image as input, apply a series of operation and then deconstruct it into two encrypted images P and R. Upon applying the decryption algorithm, the orginal qr code image is regenerated. For encryption and decryption AES and SHA-256 algorithm have been applied. This repository contains Python scripts for image processing and cryptography tasks, demonstrating practical applications of these concepts in information security.
 
 ---
 
